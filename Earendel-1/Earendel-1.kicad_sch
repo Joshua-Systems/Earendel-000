@@ -747,318 +747,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "78938-403HLF:78938-403HLF"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at -3.81 5.715 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "78938-403HLF"
-				(at -3.81 -7.62 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "78938-403HLF:AMPHENOL_78938-403HLF"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "78938-403HLF-BS SR RA HDR 1X3 | Amphenol FCI (Amphenol CS) 78938403HLF"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MF" "Amphenol"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "2.41 mm"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Package" "None"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/78938403HLF/Amphenol/view-part/?ref=eda"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "PARTREV" "BE"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/78938403HLF/Amphenol/view-part/?ref=snap"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MP" "78938403HLF"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=13898488&manufacturer=Amphenol&part_name=78938403HLF&search_term=1x3 header"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MANUFACTURER" "Amphenol"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(symbol "78938-403HLF_0_0"
-				(rectangle
-					(start -3.81 -5.08)
-					(end 5.08 5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -3.175 2.2225)
-					(end -1.5875 2.8575)
-					(stroke
-						(width 0.1)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start -3.175 -0.3175)
-					(end -1.5875 0.3175)
-					(stroke
-						(width 0.1)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start -3.175 -2.8575)
-					(end -1.5875 -2.2225)
-					(stroke
-						(width 0.1)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(pin passive line
-					(at -7.62 2.54 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 0 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -2.54 0)
-					(length 5.08)
-					(name "3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "85_SMA-50-0-144_111_YH:85_SMA-50-0-144_111_YH"
 			(pin_names
 				(offset 1.016)
@@ -1955,301 +1643,6 @@
 						(effects
 							(font
 								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "DS1021-1X2SF162-B:DS1021-1X2SF162-B"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at -3.81 3.302 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "DS1021-1X2SF162-B"
-				(at -3.81 -7.62 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "DS1021-1X2SF162-B:CONNFLY_DS1021-1X2SF162-B"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Pin header; pin strips; male; PIN: 2; straight; 2.54mm; THT; 1x2"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MF" "Connfly"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "CREATOR" "ASHISH"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Package" "None"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/DS1021-1X2SF162-B/Connfly/view-part/?ref=eda"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "DUPLICATE" "DS1021-1X2SF12-N-,-DS1021-1X2SF13-N-,-DS1021-1X2SF14-N-,-DS1021-1X2SF15-N-,-DS1021-1X2SF16-N-,-DS1021-1X2SF17-N-,-DS1021-1X2SF18-N-,-DS1021-1X2SF19-N-,-DS1021-1X2SF110-N-,-DS1021-1X2SF111-N-,-DS1021-1X2SF112-N-,-DS1021-1X2SF113-N-,-DS1021-1X2SF114-N-,-DS1021-1X2SF115-N-,-DS1021-1X2SF116-N-,-DS1021-1X2SF117-N-,-DS1021-1X2SF118-N-,-DS1021-1X2SF119-N-,-DS1021-1X2SF120-N-,-DS1021-1X2SF121-N-,-DS1021-1X2SF122-N-,-DS1021-1X2SF123-N-,-DS1021-1X2SF124-N-,-DS1021-1X2SF125-N-,-DS1021-1X2SF126-N-,-DS1021-1X2SF127-N-,-DS1021-1X2SF128-N-,-DS1021-1X2SF129-N-,-DS1021-1X2SF130-N-,-DS1021-1X2SF131-N-,-DS1021-1X2SF132-N-,-DS1021-1X2SF133-N-,-DS1021-1X2SF134-N-,-DS1021-1X2SF135-N-,-DS1021-1X2SF136-N-,-DS1021-1X2SF137-N-,-DS1021-1X2SF138-N-,-DS1021-1X2SF139-N-,-DS1021-1X2SF140-N-,-DS1021-1X2SF141-N-,-DS1021-1X2SF142-N-,-DS1021-1X2SF143-N-,-DS1021-1X2SF144-N-,-DS1021-1X2SF145-N-,-DS1021-1X2SF146-N-,-DS1021-1X2SF147-N-,-DS1021-1X2SF148-N-,-DS1021-1X2SF149-N-,-DS1021-1X2SF150-N-,-DS1021-1X2SF151-N-,-DS1021-1X2SF152-N-,-DS1021-1X2SF153-N-,-DS1021-1X2SF154-N-,-DS1021-1X2SF155-N-,-DS1021-1X2SF156-N-,-DS1021-1X2SF157-N-,-DS1021-1X2SF158-N-,-DS1021-1X2SF159-N-,-DS1021-1X2SF160-N-,-DS1021-1X2SF161-N-,-DS1021-1X2SF162-N-,-DS1021-1X2SF163-N-,-DS1021-1X2SF164-N-,-DS1021-1X2SF165-N-,-DS1021-1X2SF166-N-,-DS1021-1X2SF167-N-,-DS1021-1X2SF168-N-,-DS1021-1X2SF169-N-,-DS1021-1X2SF170-N-,-DS1021-1X2SF171-N-,-DS1021-1X2SF172-N-,-DS1021-1X2SF173-N-,-DS1021-1X2SF174-N-,-DS1021-1X2SF175-N-,-DS1021-1X2SF176-N-,-DS1021-1X2SF177-N-,-DS1021-1X2SF178-N-,-DS1021-1X2SF179-N-,-DS1021-1X2SF180-N-,-DS1021-1X2SF181-N-,-DS1021-1X2SF182-N-,-DS1021-1X2SF183-N-,-DS1021-1X2SF184-N-,-DS1021-1X2SF185-N-,-DS1021-1X2SF186-N-,-DS1021-1X2SF187-N-,-DS1021-1X2SF188-N-,-DS1021-1X2SF189-N-,-DS1021-1X2SF190-N-,-DS1021-1X2SF191-N-,-DS1021-1X2SF192-N-,-DS1021-1X2SF193-N-,-DS1021-1X2SF194-N-,-DS1021-1X2SF195-N-,-DS1021-1X2SF196-N-,-DS1021-1X2SF197-N-,-DS1021-1X2SF198-N-,-DS1021-1X2SF199-N-,-DS1021-1X2SF1101-N-,-DS1021-1X2SF1102-N-,-DS1021-1X2SF1103-N-,-DS1021-1X2SF11-3A-,-DS1021-1X2SF12-3A-,-DS1021-1X2SF13-3A-,-DS1021-1X2SF14-3A-,-DS1021-1X2SF15-3A-,-DS1021-1X2SF16-3A-,-DS1021-1X2SF17-3A-,-DS1021-1X2SF18-3A-,-DS1021-1X2SF19-3A-,-DS1021-1X2SF110-3A-,-DS1021-1X2SF111-3A-,-DS1021-1X2SF112-3A-,-DS1021-1X2SF113-3A-,-DS1021-1X2SF114-3A-,-DS1021-1X2SF115-3A-,-DS1021-1X2SF116-3A-,-DS1021-1X2SF117-3A-,-DS1021-1X2SF118-3A-,-DS1021-1X2SF119-3A-,-DS1021-1X2SF120-3A-,-DS1021-1X2SF121-3A-,-DS1021-1X2SF122-3A-,-DS1021-1X2SF123-3A-,-DS1021-1X2SF124-3A-,-DS1021-1X2SF125-3A-,-DS1021-1X2SF126-3A-,-DS1021-1X2SF127-3A-,-DS1021-1X2SF128-3A-,-DS1021-1X2SF129-3A-,-DS1021-1X2SF130-3A-,-DS1021-1X2SF131-3A-,-DS1021-1X2SF132-3A-,-DS1021-1X2SF133-3A-,-DS1021-1X2SF134-3A-,-DS1021-1X2SF135-3A-,-DS1021-1X2SF136-3A-,-DS1021-1X2SF137-3A-,-DS1021-1X2SF138-3A-,-DS1021-1X2SF139-3A-,-DS1021-1X2SF140-3A-,-DS1021-1X2SF141-3A-,-DS1021-1X2SF142-3A-,-DS1021-1X2SF143-3A-,-DS1021-1X2SF144-3A-,-DS1021-1X2SF145-3A-,-DS1021-1X2SF146-3A-,-DS1021-1X2SF147-3A-,-DS1021-1X2SF148-3A-,-DS1021-1X2SF149-3A-,-DS1021-1X2SF150-3A-,-DS1021-1X2SF151-3A-,-DS1021-1X2SF152-3A-,-DS1021-1X2SF153-3A-,-DS1021-1X2SF154-3A-,-DS1021-1X2SF155-3A-,-DS1021-1X2SF156-3A-,-DS1021-1X2SF157-3A-,-DS1021-1X2SF158-3A-,-DS1021-1X2SF159-3A-,-DS1021-1X2SF160-3A-,-DS1021-1X2SF161-3A-,-DS1021-1X2SF162-3A-,-DS1021-1X2SF163-3A-,-DS1021-1X2SF164-3A-,-DS1021-1X2SF165-3A-,-DS1021-1X2SF166-3A-,-DS1021-1X2SF167-3A-,-DS1021-1X2SF168-3A-,-DS1021-1X2SF169-3A-,-DS1021-1X2SF170-3A-,-DS1021-1X2SF171-3A-,-DS1021-1X2SF172-3A-,-DS1021-1X2SF173-3A-,-DS1021-1X2SF174-3A-,-DS1021-1X2SF175-3A-,-DS1021-1X2SF176-3A-,-DS1021-1X2SF177-3A-,-DS1021-1X2SF178-3A-,-DS1021-1X2SF179-3A-,-DS1021-1X2SF180-3A-,-DS1021-1X2SF181-3A-,-DS1021-1X2SF182-3A-,-DS1021-1X2SF183-3A-,-DS1021-1X2SF184-3A-,-DS1021-1X2SF185-3A-,-DS1021-1X2SF186-3A-,-DS1021-1X2SF187-3A-,-DS1021-1X2SF188-3A-,-DS1021-1X2SF189-3A-,-DS1021-1X2SF190-3A-,-DS1021-1X2SF191-3A-,-DS1021-1X2SF192-3A-,-DS1021-1X2SF193-3A-,-DS1021-1X2SF194-3A-,-DS1021-1X2SF195-3A-,-DS1021-1X2SF196-3A-,-DS1021-1X2SF197-3A-,-DS1021-1X2SF198-3A-,-DS1021-1X2SF199-3A-,-DS1021-1X2SF1101-3A-,-DS1021-1X2SF1102-3A-,-DS1021-1X2SF1103-3A-,-DS1021-1X2SF11-B-,-DS1021-1X2SF12-B-,-DS1021-1X2SF13-B-,-DS1021-1X2SF14-B-,-DS1021-1X2SF15-B-,-DS1021-1X2SF16-B-,-DS1021-1X2SF17-B-,-DS1021-1X2SF18-B-,-DS1021-1X2SF19-B-,-DS1021-1X2SF110-B-,-DS1021-1X2SF111-B-,-DS1021-1X2SF112-B-,-DS1021-1X2SF113-B-,-DS1021-1X2SF114-B-,-DS1021-1X2SF115-B-,-DS1021-1X2SF116-B-,-DS1021-1X2SF117-B-,-DS1021-1X2SF118-B-,-DS1021-1X2SF119-B-,-DS1021-1X2SF120-B-,-DS1021-1X2SF121-B-,-DS1021-1X2SF122-B-,-DS1021-1X2SF123-B-,-DS1021-1X2SF124-B-,-DS1021-1X2SF125-B-,-DS1021-1X2SF126-B-,-DS1021-1X2SF127-B-,-DS1021-1X2SF128-B-,-DS1021-1X2SF129-B-,-DS1021-1X2SF130-B-,-DS1021-1X2SF131-B-,-DS1021-1X2SF132-B-,-DS1021-1X2SF133-B-,-DS1021-1X2SF134-B-,-DS1021-1X2SF135-B-,-DS1021-1X2SF136-B-,-DS1021-1X2SF137-B-,-DS1021-1X2SF138-B-,-DS1021-1X2SF139-B-,-DS1021-1X2SF140-B-,-DS1021-1X2SF141-B-,-DS1021-1X2SF142-B-,-DS1021-1X2SF143-B-,-DS1021-1X2SF144-B-,-DS1021-1X2SF145-B-,-DS1021-1X2SF146-B-,-DS1021-1X2SF147-B-,-DS1021-1X2SF148-B-,-DS1021-1X2SF149-B-,-DS1021-1X2SF150-B-,-DS1021-1X2SF151-B-,-DS1021-1X2SF152-B-,-DS1021-1X2SF153-B-,-DS1021-1X2SF154-B-,-DS1021-1X2SF155-B-,-DS1021-1X2SF156-B-,-DS1021-1X2SF157-B-,-DS1021-1X2SF158-B-,-DS1021-1X2SF159-B-,-DS1021-1X2SF160-B-,-DS1021-1X2SF161-B-,-DS1021-1X2SF162-B-,-DS1021-1X2SF163-B-,-DS1021-1X2SF164-B-,-DS1021-1X2SF165-B-,-DS1021-1X2SF166-B-,-DS1021-1X2SF167-B-,-DS1021-1X2SF168-B-,-DS1021-1X2SF169-B-,-DS1021-1X2SF170-B-,-DS1021-1X2SF171-B-,-DS1021-1X2SF172-B-,-DS1021-1X2SF173-B-,-DS1021-1X2SF174-B-,-DS1021-1X2SF175-B-,-DS1021-1X2SF176-B-,-DS1021-1X2SF177-B-,-DS1021-1X2SF178-B-,-DS1021-1X2SF179-B-,-DS1021-1X2SF180-B-,-DS1021-1X2SF181-B-,-DS1021-1X2SF182-B-,-DS1021-1X2SF183-B-,-DS1021-1X2SF184-B-,-DS1021-1X2SF185-B-,-DS1021-1X2SF186-B-,-DS1021-1X2SF187-B-,-DS1021-1X2SF188-B-,-DS1021-1X2SF189-B-,-DS1021-1X2SF190-B-,-DS1021-1X2SF191-B-,-DS1021-1X2SF192-B-,-DS1021-1X2SF193-B-,-DS1021-1X2SF194-B-,-DS1021-1X2SF195-B-,-DS1021-1X2SF196-B-,-DS1021-1X2SF197-B-,-DS1021-1X2SF198-B-,-DS1021-1X2SF199-B-,-DS1021-1X2SF1101-B-,-DS1021-1X2SF1102-B-,-DS1021-1X2SF1103-B"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "PARTREV" "P"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "VERIFIER" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/DS1021-1X2SF162-B/Connfly/view-part/?ref=snap"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MP" "DS1021-1X2SF162-B"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Availability" "Not in stock"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MANUFACTURER" "Connfly"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(symbol "DS1021-1X2SF162-B_0_0"
-				(rectangle
-					(start -3.81 -5.08)
-					(end 5.08 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -3.175 -0.3175)
-					(end -1.5875 0.3175)
-					(stroke
-						(width 0.1)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start -3.175 -2.8575)
-					(end -1.5875 -2.2225)
-					(stroke
-						(width 0.1)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(pin passive line
-					(at -7.62 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -7.62 -2.54 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
 							)
 						)
 					)
@@ -4075,7 +3468,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SAMTEC-CES-110-01-X-D:SAMTEC-CES-110-01-X-D"
+		(symbol "MTMM-101-15-G-D-105:MTMM-101-15-G-D-105"
 			(pin_names
 				(offset 1.016)
 			)
@@ -4085,7 +3478,7 @@
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "J"
-				(at 0 5.08 0)
+				(at -8.12 3.656 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -4095,8 +3488,8 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "SAMTEC-CES-110-01-X-D"
-				(at 0 -33.02 0)
+			(property "Value" "MTMM-101-15-G-D-105"
+				(at -7.62 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -4106,7 +3499,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "SAMTEC-CES-110-01-X-D:SAMTEC-CES-110-01-X-D"
+			(property "Footprint" "MTMM-101-15-G-D-105:SAMTEC_MTMM-101-15-G-D-105"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4129,7 +3522,7 @@
 					)
 				)
 			)
-			(property "Description" "CES - Samtec 2.54mm Closed Entry Low Profile Dual Row Socket Strip  4.57mm Profile"
+			(property "Description" "Connector Header Through Hole 2 position"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4177,7 +3570,7 @@
 					(justify bottom)
 				)
 			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/CES-110-01-S-D/Samtec/view-part/?ref=snap"
+			(property "Check_prices" "https://www.snapeda.com/parts/MTMM-101-15-G-D-105/Samtec/view-part/?ref=eda"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4189,7 +3582,19 @@
 					(justify bottom)
 				)
 			)
-			(property "MP" "CES-110-01-S-D"
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/MTMM-101-15-G-D-105/Samtec/view-part/?ref=snap"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MP" "MTMM-101-15-G-D-105"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4213,7 +3618,7 @@
 					(justify bottom)
 				)
 			)
-			(property "Check_prices" "https://www.snapeda.com/parts/CES-110-01-S-D/Samtec/view-part/?ref=eda"
+			(property "MANUFACTURER" "SAMTEC"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4225,10 +3630,10 @@
 					(justify bottom)
 				)
 			)
-			(symbol "SAMTEC-CES-110-01-X-D_0_0"
+			(symbol "MTMM-101-15-G-D-105_0_0"
 				(rectangle
-					(start 0 -27.94)
-					(end 20.3 5.08)
+					(start -7.62 -2.54)
+					(end 7.62 2.54)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -4237,35 +3642,17 @@
 						(type background)
 					)
 				)
-				(text ">PARTNO"
-					(at 0 -30.48 0)
-					(effects
-						(font
-							(size 2.286 2.286)
-						)
-						(justify left bottom)
-					)
-				)
-				(text "SAMTEC-CES-110-01-X-D"
-					(at 0 -35.56 0)
-					(effects
-						(font
-							(size 2.286 2.286)
-						)
-						(justify left bottom)
-					)
-				)
 				(pin passive line
-					(at -5.08 0 0)
+					(at -12.7 0 0)
 					(length 5.08)
-					(name "1"
+					(name "01"
 						(effects
 							(font
 								(size 1.016 1.016)
 							)
 						)
 					)
-					(number "1"
+					(number "01"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -4274,16 +3661,16 @@
 					)
 				)
 				(pin passive line
-					(at 25.4 0 180)
+					(at 12.7 0 180)
 					(length 5.08)
-					(name "2"
+					(name "02"
 						(effects
 							(font
 								(size 1.016 1.016)
 							)
 						)
 					)
-					(number "2"
+					(number "02"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -4291,17 +3678,218 @@
 						)
 					)
 				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "TSS-110-01-G-D:TSS-110-01-G-D"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at -8.12 15.24 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "TSS-110-01-G-D"
+				(at -7.62 -15.24 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "TSS-110-01-G-D:SAMTEC_TSS-110-01-G-D"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Connector Header Through Hole 20 position 0.100 (2.54mm)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MF" "Samtec"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/TSS-110-01-G-D/Samtec+Inc./view-part/?ref=eda"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "PARTREV" "R"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/TSS-110-01-G-D/Samtec+Inc./view-part/?ref=snap"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MP" "TSS-110-01-G-D"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MANUFACTURER" "Samtec"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(symbol "TSS-110-01-G-D_0_0"
+				(rectangle
+					(start -7.62 -12.7)
+					(end 7.62 15.24)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
 				(pin passive line
-					(at -5.08 -2.54 0)
+					(at -12.7 12.7 0)
 					(length 5.08)
-					(name "3"
+					(name "01"
 						(effects
 							(font
 								(size 1.016 1.016)
 							)
 						)
 					)
-					(number "3"
+					(number "01"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -4310,16 +3898,16 @@
 					)
 				)
 				(pin passive line
-					(at 25.4 -2.54 180)
+					(at 12.7 12.7 180)
 					(length 5.08)
-					(name "4"
+					(name "02"
 						(effects
 							(font
 								(size 1.016 1.016)
 							)
 						)
 					)
-					(number "4"
+					(number "02"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -4328,16 +3916,16 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 -5.08 0)
+					(at -12.7 10.16 0)
 					(length 5.08)
-					(name "5"
+					(name "03"
 						(effects
 							(font
 								(size 1.016 1.016)
 							)
 						)
 					)
-					(number "5"
+					(number "03"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -4346,16 +3934,16 @@
 					)
 				)
 				(pin passive line
-					(at 25.4 -5.08 180)
+					(at 12.7 10.16 180)
 					(length 5.08)
-					(name "6"
+					(name "04"
 						(effects
 							(font
 								(size 1.016 1.016)
 							)
 						)
 					)
-					(number "6"
+					(number "04"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -4364,16 +3952,16 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 -7.62 0)
+					(at -12.7 7.62 0)
 					(length 5.08)
-					(name "7"
+					(name "05"
 						(effects
 							(font
 								(size 1.016 1.016)
 							)
 						)
 					)
-					(number "7"
+					(number "05"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -4382,16 +3970,16 @@
 					)
 				)
 				(pin passive line
-					(at 25.4 -7.62 180)
+					(at 12.7 7.62 180)
 					(length 5.08)
-					(name "8"
+					(name "06"
 						(effects
 							(font
 								(size 1.016 1.016)
 							)
 						)
 					)
-					(number "8"
+					(number "06"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -4400,16 +3988,16 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 -10.16 0)
+					(at -12.7 5.08 0)
 					(length 5.08)
-					(name "9"
+					(name "07"
 						(effects
 							(font
 								(size 1.016 1.016)
 							)
 						)
 					)
-					(number "9"
+					(number "07"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -4418,7 +4006,43 @@
 					)
 				)
 				(pin passive line
-					(at 25.4 -10.16 180)
+					(at 12.7 5.08 180)
+					(length 5.08)
+					(name "08"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "08"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 2.54 0)
+					(length 5.08)
+					(name "09"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "09"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 2.54 180)
 					(length 5.08)
 					(name "10"
 						(effects
@@ -4436,7 +4060,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 -12.7 0)
+					(at -12.7 0 0)
 					(length 5.08)
 					(name "11"
 						(effects
@@ -4454,7 +4078,7 @@
 					)
 				)
 				(pin passive line
-					(at 25.4 -12.7 180)
+					(at 12.7 0 180)
 					(length 5.08)
 					(name "12"
 						(effects
@@ -4472,7 +4096,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 -15.24 0)
+					(at -12.7 -2.54 0)
 					(length 5.08)
 					(name "13"
 						(effects
@@ -4490,7 +4114,7 @@
 					)
 				)
 				(pin passive line
-					(at 25.4 -15.24 180)
+					(at 12.7 -2.54 180)
 					(length 5.08)
 					(name "14"
 						(effects
@@ -4508,7 +4132,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 -17.78 0)
+					(at -12.7 -5.08 0)
 					(length 5.08)
 					(name "15"
 						(effects
@@ -4526,7 +4150,7 @@
 					)
 				)
 				(pin passive line
-					(at 25.4 -17.78 180)
+					(at 12.7 -5.08 180)
 					(length 5.08)
 					(name "16"
 						(effects
@@ -4544,7 +4168,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 -20.32 0)
+					(at -12.7 -7.62 0)
 					(length 5.08)
 					(name "17"
 						(effects
@@ -4562,7 +4186,7 @@
 					)
 				)
 				(pin passive line
-					(at 25.4 -20.32 180)
+					(at 12.7 -7.62 180)
 					(length 5.08)
 					(name "18"
 						(effects
@@ -4580,7 +4204,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 -22.86 0)
+					(at -12.7 -10.16 0)
 					(length 5.08)
 					(name "19"
 						(effects
@@ -4598,7 +4222,7 @@
 					)
 				)
 				(pin passive line
-					(at 25.4 -22.86 180)
+					(at 12.7 -10.16 180)
 					(length 5.08)
 					(name "20"
 						(effects
@@ -4608,6 +4232,261 @@
 						)
 					)
 					(number "20"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "TSW-101-05-T-T:TSW-101-05-T-T"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at -8.12 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "TSW-101-05-T-T"
+				(at -7.62 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "TSW-101-05-T-T:SAMTEC_TSW-101-05-T-T"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Connector Header Through Hole 3 position -"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MF" "Samtec"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/TSW-101-05-T-T/Samtec/view-part/?ref=eda"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "PARTREV" "R"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/TSW-101-05-T-T/Samtec/view-part/?ref=snap"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MP" "TSW-101-05-T-T"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MANUFACTURER" "Samtec"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(symbol "TSW-101-05-T-T_0_0"
+				(rectangle
+					(start -7.62 -5.08)
+					(end 7.62 5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at -12.7 2.54 0)
+					(length 5.08)
+					(name "01"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "01"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 2.54 180)
+					(length 5.08)
+					(name "02"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "02"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -12.7 -2.54 0)
+					(length 5.08)
+					(name "03"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "03"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -5292,6 +5171,12 @@
 		(uuid "395e0b72-25c3-4cfe-84d7-1ca714318df8")
 	)
 	(junction
+		(at 205.74 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "435ec13e-0e45-438b-a1dc-2cb7a764b32a")
+	)
+	(junction
 		(at 36.83 210.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5314,6 +5199,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9e407b89-87f5-4d3e-8c2d-8f3bb80aea0b")
+	)
+	(junction
+		(at 207.01 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b6f7e9aa-aece-48a2-8acf-fc7b41ceea94")
 	)
 	(junction
 		(at 459.74 119.38)
@@ -5361,16 +5252,6 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 245.11) (xy 248.92 245.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0186e3cb-6394-4aff-9856-a78e62f8ec4c")
-	)
-	(wire
-		(pts
 			(xy 102.87 50.8) (xy 102.87 54.61)
 		)
 		(stroke
@@ -5381,13 +5262,13 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 229.87) (xy 248.92 229.87)
+			(xy 276.86 222.25) (xy 281.94 222.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "03284c52-8a88-47a6-926b-d906ea38b4ff")
+		(uuid "05194cf4-7799-4f8a-94f8-3b09017526e5")
 	)
 	(wire
 		(pts
@@ -5408,16 +5289,6 @@
 			(type default)
 		)
 		(uuid "07f25b79-9693-4a4d-ab6c-310bda5d3723")
-	)
-	(wire
-		(pts
-			(xy 281.94 242.57) (xy 279.4 242.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "09efc6ed-710c-4ceb-bd31-205b29d19092")
 	)
 	(wire
 		(pts
@@ -5461,16 +5332,6 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 149.86) (xy 257.81 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0db803ff-9603-444a-a004-e212097d473b")
-	)
-	(wire
-		(pts
 			(xy 36.83 97.79) (xy 49.53 97.79)
 		)
 		(stroke
@@ -5478,16 +5339,6 @@
 			(type default)
 		)
 		(uuid "0f9f0d5d-35a4-43c0-b57d-b2eee4f9c401")
-	)
-	(wire
-		(pts
-			(xy 281.94 234.95) (xy 279.4 234.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "11e8da42-2889-4f10-9ae7-048cfcd9c455")
 	)
 	(wire
 		(pts
@@ -5511,13 +5362,13 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 180.34) (xy 257.81 180.34)
+			(xy 204.47 134.62) (xy 205.74 134.62)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1a4b08eb-4122-4fcf-aede-54fe91e09933")
+		(uuid "140b91ef-454e-47d0-aad8-1821689bcd2c")
 	)
 	(wire
 		(pts
@@ -5531,16 +5382,6 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 152.4) (xy 257.81 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1cd4cd3f-c70e-4cab-8af2-4ba42e281c8b")
-	)
-	(wire
-		(pts
 			(xy 25.4 248.92) (xy 39.37 248.92)
 		)
 		(stroke
@@ -5548,6 +5389,16 @@
 			(type default)
 		)
 		(uuid "1e669794-11db-4d78-a4ee-5df6956b3840")
+	)
+	(wire
+		(pts
+			(xy 209.55 41.91) (xy 207.01 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21fef50d-b792-4c52-ba0c-f1f6eb90dc0c")
 	)
 	(wire
 		(pts
@@ -5561,13 +5412,23 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 222.25) (xy 279.4 222.25)
+			(xy 246.38 152.4) (xy 251.46 152.4)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2486aade-3139-48a0-a352-613054c96597")
+		(uuid "2af7cb7e-f6c8-449c-95af-622b7150af56")
+	)
+	(wire
+		(pts
+			(xy 238.76 237.49) (xy 251.46 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c2613f9-1e92-40c1-9114-d74edee4f478")
 	)
 	(wire
 		(pts
@@ -5591,6 +5452,16 @@
 	)
 	(wire
 		(pts
+			(xy 238.76 222.25) (xy 251.46 222.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34309de4-2aaf-4b82-b1b3-63196c795e84")
+	)
+	(wire
+		(pts
 			(xy 459.74 119.38) (xy 462.28 119.38)
 		)
 		(stroke
@@ -5611,16 +5482,6 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 227.33) (xy 279.4 227.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3e216565-a276-4930-bac7-9348cf2fb253")
-	)
-	(wire
-		(pts
 			(xy 439.42 73.66) (xy 444.5 73.66)
 		)
 		(stroke
@@ -5631,13 +5492,23 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 237.49) (xy 248.92 237.49)
+			(xy 276.86 232.41) (xy 281.94 232.41)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3e68929b-2711-4747-aa2e-b3b6dc9fea17")
+		(uuid "40113ed6-d666-45d3-9bb4-2dbfbf539967")
+	)
+	(wire
+		(pts
+			(xy 238.76 227.33) (xy 251.46 227.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4316d9f6-004a-47e7-902d-207b7ddb31c1")
 	)
 	(wire
 		(pts
@@ -5811,6 +5682,16 @@
 	)
 	(wire
 		(pts
+			(xy 276.86 240.03) (xy 281.94 240.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62249915-0628-4fb3-9e52-93559916719d")
+	)
+	(wire
+		(pts
 			(xy 110.49 90.17) (xy 118.11 90.17)
 		)
 		(stroke
@@ -5818,16 +5699,6 @@
 			(type default)
 		)
 		(uuid "62a7dc9e-db77-4f39-b5c5-667b8bb9da6c")
-	)
-	(wire
-		(pts
-			(xy 237.49 227.33) (xy 248.92 227.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "64f3782e-fe87-4202-9e94-1a6b63493693")
 	)
 	(wire
 		(pts
@@ -5861,6 +5732,16 @@
 	)
 	(wire
 		(pts
+			(xy 276.86 224.79) (xy 281.94 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69e9c823-c09f-4f48-8ef8-ade51131ab64")
+	)
+	(wire
+		(pts
 			(xy 110.49 115.57) (xy 116.84 115.57)
 		)
 		(stroke
@@ -5878,6 +5759,26 @@
 			(type default)
 		)
 		(uuid "6d3cdc58-4aba-4e60-bd0c-bd5e86581ffa")
+	)
+	(wire
+		(pts
+			(xy 251.46 180.34) (xy 255.27 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e48b9d6-96a1-4cff-ac8c-33512356a3c8")
+	)
+	(wire
+		(pts
+			(xy 251.46 185.42) (xy 255.27 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ec13580-74c7-4366-8d3b-d342fab514ac")
 	)
 	(wire
 		(pts
@@ -5941,16 +5842,6 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 232.41) (xy 279.4 232.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7677ea3c-4c24-40c7-8ef6-7bdcc706e8fd")
-	)
-	(wire
-		(pts
 			(xy 457.2 116.84) (xy 457.2 119.38)
 		)
 		(stroke
@@ -5978,6 +5869,16 @@
 			(type default)
 		)
 		(uuid "78908a0e-b5f7-401a-a383-83d6feb1a9bf")
+	)
+	(wire
+		(pts
+			(xy 276.86 237.49) (xy 281.94 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a12c08d-fba9-46f8-b200-c02a867b9d96")
 	)
 	(wire
 		(pts
@@ -6011,6 +5912,16 @@
 	)
 	(wire
 		(pts
+			(xy 280.67 180.34) (xy 283.21 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "854ac48b-a96c-4824-9de4-a724a0fc1077")
+	)
+	(wire
+		(pts
 			(xy 148.59 166.37) (xy 148.59 160.02)
 		)
 		(stroke
@@ -6021,23 +5932,23 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 237.49) (xy 279.4 237.49)
+			(xy 238.76 229.87) (xy 251.46 229.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8d37abd3-b54e-42d4-883f-93ad901b4f76")
+		(uuid "8d424536-b5c3-47a9-a3d8-44b3673632fe")
 	)
 	(wire
 		(pts
-			(xy 237.49 240.03) (xy 248.92 240.03)
+			(xy 209.55 48.26) (xy 209.55 41.91)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "90a78b75-5821-4d5d-b7ef-c74e6f73b542")
+		(uuid "8d68042e-a87a-4595-b9b4-4630ebc6cc55")
 	)
 	(wire
 		(pts
@@ -6048,16 +5959,6 @@
 			(type default)
 		)
 		(uuid "937ce939-6991-4d74-bbdb-7c335ca37f58")
-	)
-	(wire
-		(pts
-			(xy 281.94 240.03) (xy 279.4 240.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "960ad3d3-d640-407a-a1a8-a12266ddd16c")
 	)
 	(wire
 		(pts
@@ -6081,16 +5982,6 @@
 	)
 	(wire
 		(pts
-			(xy 281.94 224.79) (xy 279.4 224.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ea7efea-5539-4234-b7e8-cf2e9b5c0656")
-	)
-	(wire
-		(pts
 			(xy 177.8 91.44) (xy 186.69 91.44)
 		)
 		(stroke
@@ -6101,13 +5992,13 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 177.8) (xy 257.81 177.8)
+			(xy 276.86 234.95) (xy 281.94 234.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a289f7eb-10e9-473b-9456-115f9814f877")
+		(uuid "a3df0a37-ba25-488b-9516-eb15a935d9b1")
 	)
 	(wire
 		(pts
@@ -6118,6 +6009,16 @@
 			(type default)
 		)
 		(uuid "a418a8cd-3368-4822-9905-326907e323b1")
+	)
+	(wire
+		(pts
+			(xy 207.01 132.08) (xy 207.01 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a51233d1-58b5-4ad6-8baf-62ee88e8067d")
 	)
 	(wire
 		(pts
@@ -6138,6 +6039,16 @@
 			(type default)
 		)
 		(uuid "ab2802ca-7cde-4a93-afbc-96034d65381d")
+	)
+	(wire
+		(pts
+			(xy 238.76 219.71) (xy 251.46 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abbc4de8-cc9e-4fd1-8348-9fedad0399db")
 	)
 	(wire
 		(pts
@@ -6171,6 +6082,26 @@
 	)
 	(wire
 		(pts
+			(xy 238.76 224.79) (xy 251.46 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2a678f5-1eef-4e44-b99c-9f7f9d8965f1")
+	)
+	(wire
+		(pts
+			(xy 238.76 234.95) (xy 251.46 234.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3161022-75af-4e37-98b8-62b5dced892d")
+	)
+	(wire
+		(pts
 			(xy 110.49 100.33) (xy 116.84 100.33)
 		)
 		(stroke
@@ -6178,6 +6109,16 @@
 			(type default)
 		)
 		(uuid "b592b5f1-393f-4e0a-881c-e3b9ead25cbc")
+	)
+	(wire
+		(pts
+			(xy 454.66 111.76) (xy 459.74 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6a164d7-b75e-413b-b6fa-aad3127c0726")
 	)
 	(wire
 		(pts
@@ -6191,6 +6132,16 @@
 	)
 	(wire
 		(pts
+			(xy 205.74 134.62) (xy 205.74 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd5d2ab5-b4d2-49fd-ba92-a0cfc0bb45a4")
+	)
+	(wire
+		(pts
 			(xy 102.87 36.83) (xy 102.87 41.91)
 		)
 		(stroke
@@ -6201,13 +6152,23 @@
 	)
 	(wire
 		(pts
-			(xy 279.4 245.11) (xy 281.94 245.11)
+			(xy 179.07 124.46) (xy 186.69 124.46)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bf42cc12-edc0-4b2d-82a4-5ac9de3f9084")
+		(uuid "be0a6387-36a9-427b-a233-9c1553e4d554")
+	)
+	(wire
+		(pts
+			(xy 276.86 242.57) (xy 281.94 242.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0a6f6c2-91e9-490d-ad29-9ebfe5e9e1b8")
 	)
 	(wire
 		(pts
@@ -6221,23 +6182,23 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 175.26) (xy 257.81 175.26)
+			(xy 276.86 229.87) (xy 281.94 229.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c53aec8e-c92c-4506-b03c-ebbf0d45a1c8")
+		(uuid "c667aa2d-fede-4c26-a62d-a04924d2b624")
 	)
 	(wire
 		(pts
-			(xy 281.94 229.87) (xy 279.4 229.87)
+			(xy 276.86 227.33) (xy 281.94 227.33)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c7b68585-486c-4b6b-b753-915779fcecea")
+		(uuid "cb63427f-28f9-4692-b7ef-29ac6433546f")
 	)
 	(wire
 		(pts
@@ -6258,16 +6219,6 @@
 			(type default)
 		)
 		(uuid "cc8c87ec-d07a-4185-828d-4d2a258c12a0")
-	)
-	(wire
-		(pts
-			(xy 237.49 242.57) (xy 248.92 242.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ced334f3-ca26-4171-ac64-e03a27035994")
 	)
 	(wire
 		(pts
@@ -6311,16 +6262,6 @@
 	)
 	(wire
 		(pts
-			(xy 454.66 111.76) (xy 458.47 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "df185a60-0d58-4428-abbe-350f2a2680bf")
-	)
-	(wire
-		(pts
 			(xy 36.83 110.49) (xy 49.53 110.49)
 		)
 		(stroke
@@ -6331,6 +6272,16 @@
 	)
 	(wire
 		(pts
+			(xy 205.74 134.62) (xy 207.01 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e190a64b-b144-490c-bb4d-2a0b752c53ca")
+	)
+	(wire
+		(pts
 			(xy 222.25 81.28) (xy 227.33 81.28)
 		)
 		(stroke
@@ -6338,6 +6289,16 @@
 			(type default)
 		)
 		(uuid "e1efcc74-d78a-4ce5-826b-0af1eb7d14ac")
+	)
+	(wire
+		(pts
+			(xy 276.86 152.4) (xy 279.4 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2f7e1d6-55c8-4990-95c5-0fbb24dd3904")
 	)
 	(wire
 		(pts
@@ -6481,13 +6442,13 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 234.95) (xy 248.92 234.95)
+			(xy 204.47 132.08) (xy 204.47 134.62)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f727e92b-aca3-4b62-be9a-652cfa5b0996")
+		(uuid "f5b9f515-f5d9-49ad-b2b5-ec08cf83bed1")
 	)
 	(wire
 		(pts
@@ -6509,15 +6470,15 @@
 		)
 		(uuid "fdccb7fa-1e22-4d39-ad0e-d81ee548fa7a")
 	)
-	(label "VDD"
-		(at 281.94 245.11 0)
+	(label "DVCC"
+		(at 238.76 219.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "01452039-e831-44fb-9738-1e0687f36220")
+		(uuid "06f79e94-3046-4322-aa6d-330a32699f7a")
 	)
 	(label "MCU_VDD"
 		(at 148.59 151.13 0)
@@ -6549,6 +6510,16 @@
 		)
 		(uuid "123011ec-f7d9-4cb0-a5a6-ca7d8e19bb3f")
 	)
+	(label "GND"
+		(at 281.94 224.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "14a6683d-ef9b-4c15-aa02-839e4419262f")
+	)
 	(label "SPDT_TX"
 		(at 412.75 73.66 0)
 		(effects
@@ -6578,6 +6549,36 @@
 			(justify left bottom)
 		)
 		(uuid "1b441fa8-4306-4252-b393-e53ca3c56b7a")
+	)
+	(label "NRST"
+		(at 238.76 237.49 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1b713004-9aed-41cd-8e28-cc2b0e3456c4")
+	)
+	(label "JTDO"
+		(at 238.76 234.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1d1cb06b-21aa-4b0a-811f-be9e32266d0a")
+	)
+	(label "GND"
+		(at 281.94 240.03 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "208d82f3-e9db-47dc-af62-84c646dffe7f")
 	)
 	(label "GND"
 		(at 458.47 123.19 180)
@@ -6618,6 +6619,16 @@
 			(justify left bottom)
 		)
 		(uuid "2d30000b-3dd0-43e9-b8f0-65cdbddb35f4")
+	)
+	(label "JTCLK"
+		(at 238.76 229.87 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2e8dc48d-eaee-4cc0-b88f-e2b72e904d3c")
 	)
 	(label "MISO"
 		(at 116.84 102.87 0)
@@ -6719,6 +6730,16 @@
 		)
 		(uuid "41621b71-bd4a-4af8-a8f9-b9e6963c493f")
 	)
+	(label "JTMS"
+		(at 238.76 227.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "431f5479-0ed0-48d5-8220-508307141288")
+	)
 	(label "NSS"
 		(at 116.84 97.79 0)
 		(effects
@@ -6749,16 +6770,6 @@
 		)
 		(uuid "4aa71971-f112-4998-9418-67a6aac51a9d")
 	)
-	(label "GND"
-		(at 281.94 234.95 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4c43b147-a562-40b9-8ee3-c2658aad0868")
-	)
 	(label "SPDT_ANT"
 		(at 36.83 90.17 0)
 		(effects
@@ -6768,6 +6779,16 @@
 			(justify left bottom)
 		)
 		(uuid "51ecf119-d9e5-4a0d-aaf8-f5ab2184a67a")
+	)
+	(label "GND"
+		(at 281.94 234.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "53493d77-2bde-44fd-a79a-1e4fc74f4049")
 	)
 	(label "ANT"
 		(at 478.79 73.66 0)
@@ -6800,7 +6821,7 @@
 		(uuid "59822ad5-6909-4b1a-8822-dec9967735d2")
 	)
 	(label "ANT"
-		(at 458.47 111.76 0)
+		(at 459.74 111.76 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6809,15 +6830,35 @@
 		)
 		(uuid "5b7afabd-ca8c-4670-82e7-98542f19889d")
 	)
-	(label "JTDO"
-		(at 237.49 229.87 0)
+	(label "GND"
+		(at 281.94 232.41 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "617c1c91-47fc-45cb-8b65-260c09303ef5")
+		(uuid "5ccd88d9-8b84-4a76-ae84-01b29574c8f2")
+	)
+	(label "V+"
+		(at 246.38 152.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6111cc2b-81ce-47dd-8e6e-97aa9a1e0b8f")
+	)
+	(label "VCAP"
+		(at 154.94 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "61d8ad10-f43c-41d6-a4eb-f97fb7630c5c")
 	)
 	(label "NSS"
 		(at 227.33 66.04 0)
@@ -6839,16 +6880,6 @@
 		)
 		(uuid "652238f6-b4c2-459e-89fd-1e6e14304fee")
 	)
-	(label "TX"
-		(at 251.46 175.26 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "66164bdb-5619-4e2d-9bf3-d38fb6259327")
-	)
 	(label "GND"
 		(at 118.11 90.17 0)
 		(effects
@@ -6859,16 +6890,6 @@
 		)
 		(uuid "670841a5-8939-4bba-9884-1360212803b9")
 	)
-	(label "GND"
-		(at 281.94 237.49 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6abf370e-446a-402d-9d38-42032c84306c")
-	)
 	(label "TX"
 		(at 227.33 78.74 0)
 		(effects
@@ -6878,6 +6899,16 @@
 			(justify left bottom)
 		)
 		(uuid "6bf70c9c-4ebd-474b-8921-cbbbcc936097")
+	)
+	(label "GND"
+		(at 281.94 242.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6e1b1e14-4a85-4c3c-9bb1-eaf04a0261f3")
 	)
 	(label "Wake_Up"
 		(at 36.83 118.11 0)
@@ -6909,16 +6940,6 @@
 		)
 		(uuid "7a9df408-2471-43ac-8894-3d33a8a6209d")
 	)
-	(label "GND"
-		(at 281.94 227.33 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7b968342-1ba1-4ea0-a788-8888f7c057f4")
-	)
 	(label "XTAL+"
 		(at 25.4 210.82 0)
 		(effects
@@ -6930,7 +6951,7 @@
 		(uuid "7f857eae-b749-4c2c-8a06-86cc98f6b0f6")
 	)
 	(label "RX"
-		(at 251.46 177.8 0)
+		(at 283.21 180.34 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6989,15 +7010,15 @@
 		)
 		(uuid "9029b977-659e-4982-8e54-34eea2ea79d6")
 	)
-	(label "GND"
-		(at 250.19 152.4 0)
+	(label "VCAP"
+		(at 179.07 124.46 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "934dce18-21c4-44f8-83a1-e5015fdd3cc3")
+		(uuid "94be8b18-557b-4e24-bcae-ae9a2f4d788b")
 	)
 	(label "NRST"
 		(at 168.91 55.88 0)
@@ -7040,6 +7061,16 @@
 		(uuid "9c24f316-07fd-4b79-a855-a48cf80cdb57")
 	)
 	(label "GND"
+		(at 281.94 227.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9cfb3c88-3784-4559-918e-ca83b040c35e")
+	)
+	(label "GND"
 		(at 345.44 73.66 0)
 		(effects
 			(font
@@ -7069,6 +7100,36 @@
 		)
 		(uuid "a1bc8479-e46a-4eb7-a9cc-9cd95eb30a04")
 	)
+	(label "NJTRST"
+		(at 238.76 222.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a2bd9122-bc27-47c9-951b-e3b2805d60ab")
+	)
+	(label "TX"
+		(at 251.46 180.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a36b3d74-cc9d-4d16-80d7-9286e65d4d83")
+	)
+	(label "GND"
+		(at 279.4 152.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a398b625-a92d-49a4-9056-66d782f8fbc8")
+	)
 	(label "VS_TP"
 		(at 116.84 100.33 0)
 		(effects
@@ -7078,6 +7139,16 @@
 			(justify left bottom)
 		)
 		(uuid "a85fb135-569e-4f12-b4d7-105a1f528fa9")
+	)
+	(label "GND"
+		(at 281.94 229.87 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a9e99f1f-50ca-4e50-b002-24f68879d732")
 	)
 	(label "GND"
 		(at 118.11 87.63 0)
@@ -7100,54 +7171,24 @@
 		(uuid "ab9c4105-8af8-4010-bc50-85658e7d5989")
 	)
 	(label "GND"
-		(at 281.94 224.79 0)
+		(at 281.94 222.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "ad4fbdf1-b598-4262-87ed-4a7ff11f40d5")
+		(uuid "ad95c368-7d0c-4437-a398-c098a50250b1")
 	)
-	(label "GND"
-		(at 281.94 242.57 0)
+	(label "JTDI"
+		(at 238.76 224.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "af57baa7-af86-465e-940f-7102c33e7559")
-	)
-	(label "JTCLK"
-		(at 237.49 234.95 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "afdff360-42cc-420c-8dc8-391936bf5124")
-	)
-	(label "GND"
-		(at 281.94 240.03 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b2909399-26f1-4b6c-9829-061835fa31c6")
-	)
-	(label "JTMS"
-		(at 237.49 237.49 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b3c45e00-c427-44b4-a767-664f090e34b7")
+		(uuid "b252f8c5-5137-4af7-abe1-93977b50370d")
 	)
 	(label "RF_OUT"
 		(at 412.75 81.28 0)
@@ -7160,7 +7201,7 @@
 		(uuid "b5a69996-ec46-405d-9322-a24b313d1a84")
 	)
 	(label "GND"
-		(at 251.46 180.34 0)
+		(at 251.46 185.42 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7180,6 +7221,16 @@
 		(uuid "bd466ddc-2250-4616-b402-0e41898d63bb")
 	)
 	(label "GND"
+		(at 281.94 237.49 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c19d3120-4970-4dca-9425-9ff2c4fa7d6c")
+	)
+	(label "GND"
 		(at 116.84 113.03 0)
 		(effects
 			(font
@@ -7188,26 +7239,6 @@
 			(justify left bottom)
 		)
 		(uuid "c29506b7-758d-46af-865f-dd1f8be11bba")
-	)
-	(label "GND"
-		(at 281.94 229.87 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c5529954-9f00-44cb-8936-f4a7e3925085")
-	)
-	(label "NRST"
-		(at 237.49 227.33 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c719c8f6-129e-4949-ab6e-6e08964d2b13")
 	)
 	(label "MOSI"
 		(at 116.84 105.41 0)
@@ -7269,16 +7300,6 @@
 		)
 		(uuid "d02916b5-88ab-45af-afcd-5f6e9c019129")
 	)
-	(label "JTDI"
-		(at 237.49 240.03 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d0ea674c-b6b5-4c2e-975f-b0e6128cef52")
-	)
 	(label "IRQ"
 		(at 227.33 76.2 0)
 		(effects
@@ -7339,16 +7360,6 @@
 		)
 		(uuid "d52e0527-16b7-4a39-a6c5-8c8a4805c2fd")
 	)
-	(label "GND"
-		(at 281.94 232.41 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d5f5d66c-b3c4-49ae-a040-559f3ecb7d34")
-	)
 	(label "VDD"
 		(at 125.73 151.13 0)
 		(effects
@@ -7389,26 +7400,6 @@
 		)
 		(uuid "e1465d98-3ebd-4ceb-b570-a3114798379c")
 	)
-	(label "V+"
-		(at 250.19 149.86 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e8b71ec1-4f46-469e-9161-378c71e2fff8")
-	)
-	(label "MCU_VDD"
-		(at 237.49 245.11 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e8ef1875-90b1-46f8-8cac-12918127e1ad")
-	)
 	(label "STM_XTAL_+"
 		(at 25.4 248.92 0)
 		(effects
@@ -7419,16 +7410,6 @@
 		)
 		(uuid "ece83e83-b115-4e06-8ca5-59254482e743")
 	)
-	(label "NJTRST"
-		(at 237.49 242.57 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "eec4311e-fbcd-4ecc-a2f8-061dff9ca90c")
-	)
 	(label "VDD"
 		(at 271.78 133.35 0)
 		(effects
@@ -7438,16 +7419,6 @@
 			(justify left bottom)
 		)
 		(uuid "f18d6e5f-0ffb-4de8-9fbe-74532bcc10b4")
-	)
-	(label "GND"
-		(at 281.94 222.25 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "f1b510e9-602d-4169-9778-8b61f2c53073")
 	)
 	(label "RF_OUT"
 		(at 36.83 97.79 0)
@@ -7491,7 +7462,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 204.47 132.08 0)
+		(at 205.74 135.89 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7502,7 +7473,7 @@
 		(fields_autoplaced yes)
 		(uuid "05faba07-0678-4964-97d3-9b2d82c9a0ca")
 		(property "Reference" "#PWR01"
-			(at 204.47 138.43 0)
+			(at 205.74 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7513,7 +7484,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 204.47 137.16 0)
+			(at 205.74 140.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7523,7 +7494,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 204.47 132.08 0)
+			(at 205.74 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7534,7 +7505,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 204.47 132.08 0)
+			(at 205.74 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7545,7 +7516,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 204.47 132.08 0)
+			(at 205.74 135.89 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7722,246 +7693,6 @@
 			(project "Earendel-1"
 				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
 					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "DS1021-1X2SF162-B:DS1021-1X2SF162-B")
-		(at 265.43 149.86 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "11231d70-bd6b-42f4-b0f1-6d79ede04668")
-		(property "Reference" "J2"
-			(at 271.78 149.8599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "DS1021-1X2SF162-B"
-			(at 271.78 152.3999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "DS1021-1X2SF162-B:CONNFLY_DS1021-1X2SF162-B"
-			(at 265.43 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 265.43 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Pin header; pin strips; male; PIN: 2; straight; 2.54mm; THT; 1x2"
-			(at 265.43 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MF" "Connfly"
-			(at 265.43 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "CREATOR" "ASHISH"
-			(at 265.43 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 265.43 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "None"
-			(at 265.43 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/DS1021-1X2SF162-B/Connfly/view-part/?ref=eda"
-			(at 265.43 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "DUPLICATE" "DS1021-1X2SF12-N-,-DS1021-1X2SF13-N-,-DS1021-1X2SF14-N-,-DS1021-1X2SF15-N-,-DS1021-1X2SF16-N-,-DS1021-1X2SF17-N-,-DS1021-1X2SF18-N-,-DS1021-1X2SF19-N-,-DS1021-1X2SF110-N-,-DS1021-1X2SF111-N-,-DS1021-1X2SF112-N-,-DS1021-1X2SF113-N-,-DS1021-1X2SF114-N-,-DS1021-1X2SF115-N-,-DS1021-1X2SF116-N-,-DS1021-1X2SF117-N-,-DS1021-1X2SF118-N-,-DS1021-1X2SF119-N-,-DS1021-1X2SF120-N-,-DS1021-1X2SF121-N-,-DS1021-1X2SF122-N-,-DS1021-1X2SF123-N-,-DS1021-1X2SF124-N-,-DS1021-1X2SF125-N-,-DS1021-1X2SF126-N-,-DS1021-1X2SF127-N-,-DS1021-1X2SF128-N-,-DS1021-1X2SF129-N-,-DS1021-1X2SF130-N-,-DS1021-1X2SF131-N-,-DS1021-1X2SF132-N-,-DS1021-1X2SF133-N-,-DS1021-1X2SF134-N-,-DS1021-1X2SF135-N-,-DS1021-1X2SF136-N-,-DS1021-1X2SF137-N-,-DS1021-1X2SF138-N-,-DS1021-1X2SF139-N-,-DS1021-1X2SF140-N-,-DS1021-1X2SF141-N-,-DS1021-1X2SF142-N-,-DS1021-1X2SF143-N-,-DS1021-1X2SF144-N-,-DS1021-1X2SF145-N-,-DS1021-1X2SF146-N-,-DS1021-1X2SF147-N-,-DS1021-1X2SF148-N-,-DS1021-1X2SF149-N-,-DS1021-1X2SF150-N-,-DS1021-1X2SF151-N-,-DS1021-1X2SF152-N-,-DS1021-1X2SF153-N-,-DS1021-1X2SF154-N-,-DS1021-1X2SF155-N-,-DS1021-1X2SF156-N-,-DS1021-1X2SF157-N-,-DS1021-1X2SF158-N-,-DS1021-1X2SF159-N-,-DS1021-1X2SF160-N-,-DS1021-1X2SF161-N-,-DS1021-1X2SF162-N-,-DS1021-1X2SF163-N-,-DS1021-1X2SF164-N-,-DS1021-1X2SF165-N-,-DS1021-1X2SF166-N-,-DS1021-1X2SF167-N-,-DS1021-1X2SF168-N-,-DS1021-1X2SF169-N-,-DS1021-1X2SF170-N-,-DS1021-1X2SF171-N-,-DS1021-1X2SF172-N-,-DS1021-1X2SF173-N-,-DS1021-1X2SF174-N-,-DS1021-1X2SF175-N-,-DS1021-1X2SF176-N-,-DS1021-1X2SF177-N-,-DS1021-1X2SF178-N-,-DS1021-1X2SF179-N-,-DS1021-1X2SF180-N-,-DS1021-1X2SF181-N-,-DS1021-1X2SF182-N-,-DS1021-1X2SF183-N-,-DS1021-1X2SF184-N-,-DS1021-1X2SF185-N-,-DS1021-1X2SF186-N-,-DS1021-1X2SF187-N-,-DS1021-1X2SF188-N-,-DS1021-1X2SF189-N-,-DS1021-1X2SF190-N-,-DS1021-1X2SF191-N-,-DS1021-1X2SF192-N-,-DS1021-1X2SF193-N-,-DS1021-1X2SF194-N-,-DS1021-1X2SF195-N-,-DS1021-1X2SF196-N-,-DS1021-1X2SF197-N-,-DS1021-1X2SF198-N-,-DS1021-1X2SF199-N-,-DS1021-1X2SF1101-N-,-DS1021-1X2SF1102-N-,-DS1021-1X2SF1103-N-,-DS1021-1X2SF11-3A-,-DS1021-1X2SF12-3A-,-DS1021-1X2SF13-3A-,-DS1021-1X2SF14-3A-,-DS1021-1X2SF15-3A-,-DS1021-1X2SF16-3A-,-DS1021-1X2SF17-3A-,-DS1021-1X2SF18-3A-,-DS1021-1X2SF19-3A-,-DS1021-1X2SF110-3A-,-DS1021-1X2SF111-3A-,-DS1021-1X2SF112-3A-,-DS1021-1X2SF113-3A-,-DS1021-1X2SF114-3A-,-DS1021-1X2SF115-3A-,-DS1021-1X2SF116-3A-,-DS1021-1X2SF117-3A-,-DS1021-1X2SF118-3A-,-DS1021-1X2SF119-3A-,-DS1021-1X2SF120-3A-,-DS1021-1X2SF121-3A-,-DS1021-1X2SF122-3A-,-DS1021-1X2SF123-3A-,-DS1021-1X2SF124-3A-,-DS1021-1X2SF125-3A-,-DS1021-1X2SF126-3A-,-DS1021-1X2SF127-3A-,-DS1021-1X2SF128-3A-,-DS1021-1X2SF129-3A-,-DS1021-1X2SF130-3A-,-DS1021-1X2SF131-3A-,-DS1021-1X2SF132-3A-,-DS1021-1X2SF133-3A-,-DS1021-1X2SF134-3A-,-DS1021-1X2SF135-3A-,-DS1021-1X2SF136-3A-,-DS1021-1X2SF137-3A-,-DS1021-1X2SF138-3A-,-DS1021-1X2SF139-3A-,-DS1021-1X2SF140-3A-,-DS1021-1X2SF141-3A-,-DS1021-1X2SF142-3A-,-DS1021-1X2SF143-3A-,-DS1021-1X2SF144-3A-,-DS1021-1X2SF145-3A-,-DS1021-1X2SF146-3A-,-DS1021-1X2SF147-3A-,-DS1021-1X2SF148-3A-,-DS1021-1X2SF149-3A-,-DS1021-1X2SF150-3A-,-DS1021-1X2SF151-3A-,-DS1021-1X2SF152-3A-,-DS1021-1X2SF153-3A-,-DS1021-1X2SF154-3A-,-DS1021-1X2SF155-3A-,-DS1021-1X2SF156-3A-,-DS1021-1X2SF157-3A-,-DS1021-1X2SF158-3A-,-DS1021-1X2SF159-3A-,-DS1021-1X2SF160-3A-,-DS1021-1X2SF161-3A-,-DS1021-1X2SF162-3A-,-DS1021-1X2SF163-3A-,-DS1021-1X2SF164-3A-,-DS1021-1X2SF165-3A-,-DS1021-1X2SF166-3A-,-DS1021-1X2SF167-3A-,-DS1021-1X2SF168-3A-,-DS1021-1X2SF169-3A-,-DS1021-1X2SF170-3A-,-DS1021-1X2SF171-3A-,-DS1021-1X2SF172-3A-,-DS1021-1X2SF173-3A-,-DS1021-1X2SF174-3A-,-DS1021-1X2SF175-3A-,-DS1021-1X2SF176-3A-,-DS1021-1X2SF177-3A-,-DS1021-1X2SF178-3A-,-DS1021-1X2SF179-3A-,-DS1021-1X2SF180-3A-,-DS1021-1X2SF181-3A-,-DS1021-1X2SF182-3A-,-DS1021-1X2SF183-3A-,-DS1021-1X2SF184-3A-,-DS1021-1X2SF185-3A-,-DS1021-1X2SF186-3A-,-DS1021-1X2SF187-3A-,-DS1021-1X2SF188-3A-,-DS1021-1X2SF189-3A-,-DS1021-1X2SF190-3A-,-DS1021-1X2SF191-3A-,-DS1021-1X2SF192-3A-,-DS1021-1X2SF193-3A-,-DS1021-1X2SF194-3A-,-DS1021-1X2SF195-3A-,-DS1021-1X2SF196-3A-,-DS1021-1X2SF197-3A-,-DS1021-1X2SF198-3A-,-DS1021-1X2SF199-3A-,-DS1021-1X2SF1101-3A-,-DS1021-1X2SF1102-3A-,-DS1021-1X2SF1103-3A-,-DS1021-1X2SF11-B-,-DS1021-1X2SF12-B-,-DS1021-1X2SF13-B-,-DS1021-1X2SF14-B-,-DS1021-1X2SF15-B-,-DS1021-1X2SF16-B-,-DS1021-1X2SF17-B-,-DS1021-1X2SF18-B-,-DS1021-1X2SF19-B-,-DS1021-1X2SF110-B-,-DS1021-1X2SF111-B-,-DS1021-1X2SF112-B-,-DS1021-1X2SF113-B-,-DS1021-1X2SF114-B-,-DS1021-1X2SF115-B-,-DS1021-1X2SF116-B-,-DS1021-1X2SF117-B-,-DS1021-1X2SF118-B-,-DS1021-1X2SF119-B-,-DS1021-1X2SF120-B-,-DS1021-1X2SF121-B-,-DS1021-1X2SF122-B-,-DS1021-1X2SF123-B-,-DS1021-1X2SF124-B-,-DS1021-1X2SF125-B-,-DS1021-1X2SF126-B-,-DS1021-1X2SF127-B-,-DS1021-1X2SF128-B-,-DS1021-1X2SF129-B-,-DS1021-1X2SF130-B-,-DS1021-1X2SF131-B-,-DS1021-1X2SF132-B-,-DS1021-1X2SF133-B-,-DS1021-1X2SF134-B-,-DS1021-1X2SF135-B-,-DS1021-1X2SF136-B-,-DS1021-1X2SF137-B-,-DS1021-1X2SF138-B-,-DS1021-1X2SF139-B-,-DS1021-1X2SF140-B-,-DS1021-1X2SF141-B-,-DS1021-1X2SF142-B-,-DS1021-1X2SF143-B-,-DS1021-1X2SF144-B-,-DS1021-1X2SF145-B-,-DS1021-1X2SF146-B-,-DS1021-1X2SF147-B-,-DS1021-1X2SF148-B-,-DS1021-1X2SF149-B-,-DS1021-1X2SF150-B-,-DS1021-1X2SF151-B-,-DS1021-1X2SF152-B-,-DS1021-1X2SF153-B-,-DS1021-1X2SF154-B-,-DS1021-1X2SF155-B-,-DS1021-1X2SF156-B-,-DS1021-1X2SF157-B-,-DS1021-1X2SF158-B-,-DS1021-1X2SF159-B-,-DS1021-1X2SF160-B-,-DS1021-1X2SF161-B-,-DS1021-1X2SF162-B-,-DS1021-1X2SF163-B-,-DS1021-1X2SF164-B-,-DS1021-1X2SF165-B-,-DS1021-1X2SF166-B-,-DS1021-1X2SF167-B-,-DS1021-1X2SF168-B-,-DS1021-1X2SF169-B-,-DS1021-1X2SF170-B-,-DS1021-1X2SF171-B-,-DS1021-1X2SF172-B-,-DS1021-1X2SF173-B-,-DS1021-1X2SF174-B-,-DS1021-1X2SF175-B-,-DS1021-1X2SF176-B-,-DS1021-1X2SF177-B-,-DS1021-1X2SF178-B-,-DS1021-1X2SF179-B-,-DS1021-1X2SF180-B-,-DS1021-1X2SF181-B-,-DS1021-1X2SF182-B-,-DS1021-1X2SF183-B-,-DS1021-1X2SF184-B-,-DS1021-1X2SF185-B-,-DS1021-1X2SF186-B-,-DS1021-1X2SF187-B-,-DS1021-1X2SF188-B-,-DS1021-1X2SF189-B-,-DS1021-1X2SF190-B-,-DS1021-1X2SF191-B-,-DS1021-1X2SF192-B-,-DS1021-1X2SF193-B-,-DS1021-1X2SF194-B-,-DS1021-1X2SF195-B-,-DS1021-1X2SF196-B-,-DS1021-1X2SF197-B-,-DS1021-1X2SF198-B-,-DS1021-1X2SF199-B-,-DS1021-1X2SF1101-B-,-DS1021-1X2SF1102-B-,-DS1021-1X2SF1103-B"
-			(at 265.43 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 265.43 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "PARTREV" "P"
-			(at 265.43 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "VERIFIER" ""
-			(at 265.43 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/DS1021-1X2SF162-B/Connfly/view-part/?ref=snap"
-			(at 265.43 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "DS1021-1X2SF162-B"
-			(at 265.43 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "Not in stock"
-			(at 265.43 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MANUFACTURER" "Connfly"
-			(at 265.43 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "2"
-			(uuid "7fa690dc-ffc4-40b7-a701-2a1cff0be8f3")
-		)
-		(pin "1"
-			(uuid "e0f0e32d-06db-4638-9b89-2615d3826959")
-		)
-		(instances
-			(project "Earendel-1"
-				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
-					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -9577,6 +9308,211 @@
 		)
 	)
 	(symbol
+		(lib_id "TSW-101-05-T-T:TSW-101-05-T-T")
+		(at 267.97 182.88 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4d407213-aba1-4aa7-b129-76922c4849d2")
+		(property "Reference" "J2"
+			(at 267.97 172.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TSW-101-05-T-T"
+			(at 267.97 175.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TSW-101-05-T-T:SAMTEC_TSW-101-05-T-T"
+			(at 267.97 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 267.97 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Connector Header Through Hole 3 position -"
+			(at 267.97 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Samtec"
+			(at 267.97 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "None"
+			(at 267.97 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 267.97 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TSW-101-05-T-T/Samtec/view-part/?ref=eda"
+			(at 267.97 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 267.97 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PARTREV" "R"
+			(at 267.97 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TSW-101-05-T-T/Samtec/view-part/?ref=snap"
+			(at 267.97 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "TSW-101-05-T-T"
+			(at 267.97 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 267.97 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 267.97 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "01"
+			(uuid "c10804e5-8d5c-4eab-9457-34bea7a9eb77")
+		)
+		(pin "03"
+			(uuid "90420631-b0bf-40a7-9ab3-b9597df140a1")
+		)
+		(pin "02"
+			(uuid "d842cd73-acb5-49fc-893e-b56415037c0a")
+		)
+		(instances
+			(project "Earendel-1"
+				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 355.6 77.47 0)
 		(unit 1)
@@ -9659,8 +9595,8 @@
 		)
 	)
 	(symbol
-		(lib_id "78938-403HLF:78938-403HLF")
-		(at 265.43 177.8 0)
+		(lib_id "Device:C")
+		(at 154.94 128.27 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9669,9 +9605,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "512c793b-6bd0-48a8-98b3-e00aab640ffc")
-		(property "Reference" "J3"
-			(at 271.78 176.5299 0)
+		(uuid "4e8338c4-af04-42a6-9845-ce3fcaf1ab2c")
+		(property "Reference" "C15"
+			(at 158.75 126.9999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9681,8 +9617,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "78938-403HLF"
-			(at 271.78 179.0699 0)
+		(property "Value" "4.7uF"
+			(at 158.75 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9692,8 +9628,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "78938-403HLF:AMPHENOL_78938-403HLF"
-			(at 265.43 177.8 0)
+		(property "Footprint" ""
+			(at 155.9052 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9701,11 +9637,10 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 			)
 		)
 		(property "Datasheet" ""
-			(at 265.43 177.8 0)
+			(at 154.94 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9715,8 +9650,8 @@
 				)
 			)
 		)
-		(property "Description" "78938-403HLF-BS SR RA HDR 1X3 | Amphenol FCI (Amphenol CS) 78938403HLF"
-			(at 265.43 177.8 0)
+		(property "Description" "Unpolarized capacitor"
+			(at 154.94 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9724,166 +9659,18 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
 			)
-		)
-		(property "MF" "Amphenol"
-			(at 265.43 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "2.41 mm"
-			(at 265.43 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "None"
-			(at 265.43 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 265.43 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/78938403HLF/Amphenol/view-part/?ref=eda"
-			(at 265.43 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 265.43 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "PARTREV" "BE"
-			(at 265.43 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/78938403HLF/Amphenol/view-part/?ref=snap"
-			(at 265.43 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "78938403HLF"
-			(at 265.43 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=13898488&manufacturer=Amphenol&part_name=78938403HLF&search_term=1x3 header"
-			(at 265.43 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 265.43 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MANUFACTURER" "Amphenol"
-			(at 265.43 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "2"
-			(uuid "f7a1b4d0-59bc-4127-af44-e979458899e3")
-		)
-		(pin "3"
-			(uuid "132da3ff-fac7-4b7e-9d66-7c8a10af7d11")
 		)
 		(pin "1"
-			(uuid "d5838f8c-5de8-4dfd-bbe4-6a22899849c9")
+			(uuid "ef18736c-72ec-4585-bdb5-0cfd9d45cf52")
+		)
+		(pin "2"
+			(uuid "5961a293-7ad9-4da1-b5b6-270938ba8a3a")
 		)
 		(instances
 			(project "Earendel-1"
 				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
-					(reference "J3")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -10272,6 +10059,262 @@
 		)
 	)
 	(symbol
+		(lib_id "TSS-110-01-G-D:TSS-110-01-G-D")
+		(at 264.16 232.41 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "689f5e58-0e6c-46de-bfee-a4f7c77aeb9f")
+		(property "Reference" "J5"
+			(at 264.16 212.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TSS-110-01-G-D"
+			(at 264.16 214.63 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TSS-110-01-G-D:SAMTEC_TSS-110-01-G-D"
+			(at 264.16 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 264.16 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Connector Header Through Hole 20 position 0.100 (2.54mm)"
+			(at 264.16 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Samtec"
+			(at 264.16 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "None"
+			(at 264.16 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 264.16 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TSS-110-01-G-D/Samtec+Inc./view-part/?ref=eda"
+			(at 264.16 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 264.16 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PARTREV" "R"
+			(at 264.16 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TSS-110-01-G-D/Samtec+Inc./view-part/?ref=snap"
+			(at 264.16 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "TSS-110-01-G-D"
+			(at 264.16 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 264.16 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 264.16 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "15"
+			(uuid "f060d9c5-edcc-4a9f-bab6-60604689344f")
+		)
+		(pin "12"
+			(uuid "1beff5f2-5571-483b-85e7-b76eb9ae2f27")
+		)
+		(pin "16"
+			(uuid "8b55f851-19da-4d9b-9584-6ff40a591014")
+		)
+		(pin "05"
+			(uuid "0ee6459f-3dde-479d-b418-e469b77e6a9a")
+		)
+		(pin "09"
+			(uuid "92febe4f-f3cb-489d-9bc5-97ac719d5aeb")
+		)
+		(pin "17"
+			(uuid "f2811215-f303-40a7-b90f-2cb00862b0f8")
+		)
+		(pin "19"
+			(uuid "5e5c4ece-6c18-4cda-85f1-739cf7a2e8ed")
+		)
+		(pin "10"
+			(uuid "b7d27daa-ec9f-4ca4-8f0f-91dc569537f9")
+		)
+		(pin "18"
+			(uuid "e3964a9a-9b39-45d1-9cbc-f7e47f882ec2")
+		)
+		(pin "11"
+			(uuid "16a09edd-da67-4186-a2c9-748fb5e243f7")
+		)
+		(pin "13"
+			(uuid "54937ce4-ae39-4bae-a616-49b9a3b3c436")
+		)
+		(pin "04"
+			(uuid "d89b280c-67e9-43aa-98f5-a7d65fd510c9")
+		)
+		(pin "07"
+			(uuid "7fb3808b-3b9e-4292-9871-a6506cd682d5")
+		)
+		(pin "08"
+			(uuid "9f368de6-eb92-47b1-b890-955bb688686b")
+		)
+		(pin "06"
+			(uuid "53295120-d9f8-4e09-b650-1f0f6484bbb7")
+		)
+		(pin "03"
+			(uuid "47420736-2111-4718-9230-c0e09b7d6d86")
+		)
+		(pin "02"
+			(uuid "1da72f42-5e04-4f97-9c25-383c448ad59d")
+		)
+		(pin "01"
+			(uuid "951f4dc2-075d-48fd-83ae-bfbc063c5e94")
+		)
+		(pin "20"
+			(uuid "8875d1b1-bd50-4cc3-859b-46a34cde7295")
+		)
+		(pin "14"
+			(uuid "d4f18f54-5d32-405c-a3b6-9597c400d72b")
+		)
+		(instances
+			(project "Earendel-1"
+				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
+					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 39.37 252.73 0)
 		(unit 1)
@@ -10348,6 +10391,84 @@
 			(project "Earendel-1"
 				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
 					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 154.94 132.08 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6dc5391d-8d4b-4212-ac35-4b1450bd7b81")
+		(property "Reference" "#PWR016"
+			(at 154.94 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 154.94 137.16 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 154.94 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 154.94 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 154.94 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1159a25d-ffdb-404e-a035-49fb615db39c")
+		)
+		(instances
+			(project "Earendel-1"
+				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -11870,6 +11991,184 @@
 		)
 	)
 	(symbol
+		(lib_id "MTMM-101-15-G-D-105:MTMM-101-15-G-D-105")
+		(at 264.16 152.4 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d0d32d88-7f72-45a0-aba1-cb61b221e625")
+		(property "Reference" "J1"
+			(at 264.16 144.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MTMM-101-15-G-D-105"
+			(at 264.16 147.32 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MTMM-101-15-G-D-105:SAMTEC_MTMM-101-15-G-D-105"
+			(at 264.16 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 264.16 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Connector Header Through Hole 2 position"
+			(at 264.16 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Samtec"
+			(at 264.16 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "None"
+			(at 264.16 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 264.16 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/MTMM-101-15-G-D-105/Samtec/view-part/?ref=eda"
+			(at 264.16 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/MTMM-101-15-G-D-105/Samtec/view-part/?ref=snap"
+			(at 264.16 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "MTMM-101-15-G-D-105"
+			(at 264.16 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 264.16 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "SAMTEC"
+			(at 264.16 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "02"
+			(uuid "525eb6d5-81ba-4866-bc29-72ef478822ee")
+		)
+		(pin "01"
+			(uuid "af25765c-e2a8-4dda-952b-3e9ddc56b95d")
+		)
+		(instances
+			(project "Earendel-1"
+				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 444.5 81.28 0)
 		(unit 1)
@@ -12342,226 +12641,6 @@
 			(project "Earendel-1"
 				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
 					(reference "L1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SAMTEC-CES-110-01-X-D:SAMTEC-CES-110-01-X-D")
-		(at 254 222.25 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e8a65c04-80e0-430b-a435-38f569058674")
-		(property "Reference" "J1"
-			(at 278.5749 212.09 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SAMTEC-CES-110-01-X-D"
-			(at 278.5749 214.63 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount"
-			(at 254 222.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 254 222.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "CES - Samtec 2.54mm Closed Entry Low Profile Dual Row Socket Strip  4.57mm Profile"
-			(at 254 222.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MF" "Samtec"
-			(at 254 222.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "None"
-			(at 254 222.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 254 222.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/CES-110-01-S-D/Samtec/view-part/?ref=snap"
-			(at 254 222.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "CES-110-01-S-D"
-			(at 254 222.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 254 222.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/CES-110-01-S-D/Samtec/view-part/?ref=eda"
-			(at 254 222.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "17"
-			(uuid "1f801c08-404d-4756-998c-3727271a61d1")
-		)
-		(pin "6"
-			(uuid "ae1069cc-90d3-463f-acd9-3c72c4973ada")
-		)
-		(pin "5"
-			(uuid "4b63eeb8-c603-4f6b-8fc9-fedd813fe224")
-		)
-		(pin "3"
-			(uuid "7b5cda23-9d37-44a0-a1c4-01072b5579df")
-		)
-		(pin "15"
-			(uuid "40c45399-f42c-4035-9d80-590b898577a3")
-		)
-		(pin "16"
-			(uuid "99efe9f9-e883-4ebb-a5f7-25572b16bce7")
-		)
-		(pin "11"
-			(uuid "5038d4f9-fdb7-469b-b189-b3d39b6768ff")
-		)
-		(pin "12"
-			(uuid "5f0a7e5c-f44d-455c-bcd0-82d9018357bc")
-		)
-		(pin "13"
-			(uuid "9f7490e9-60b7-4eae-a3eb-36dbd74d844f")
-		)
-		(pin "10"
-			(uuid "70486545-8c1d-4562-ae8a-b29b64eb67a2")
-		)
-		(pin "14"
-			(uuid "0def32d6-223a-4cae-b2de-baaf080370df")
-		)
-		(pin "4"
-			(uuid "6100f12f-d96a-4f58-8193-4da922de510e")
-		)
-		(pin "1"
-			(uuid "24711f9f-3b0c-48b9-92c0-b5c6e0b72a1b")
-		)
-		(pin "9"
-			(uuid "43cc875c-a8a5-47b1-8dcb-ceb3593078c4")
-		)
-		(pin "20"
-			(uuid "62972fef-7b5a-435a-a034-6130c820453f")
-		)
-		(pin "19"
-			(uuid "b883c941-30ff-461b-8aba-6e6920fa1151")
-		)
-		(pin "18"
-			(uuid "7be945b6-b9b9-4d7a-8036-0c45a716dae6")
-		)
-		(pin "8"
-			(uuid "6a1ce24a-12c9-4ec9-a33b-79d443eab8ee")
-		)
-		(pin "7"
-			(uuid "0c6003f8-0ffc-4d49-8f96-b38524fcfa14")
-		)
-		(pin "2"
-			(uuid "218b78d6-ccb8-46dd-ae09-903b5c39fc1e")
-		)
-		(instances
-			(project "Earendel-1"
-				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
-					(reference "J1")
 					(unit 1)
 				)
 			)
