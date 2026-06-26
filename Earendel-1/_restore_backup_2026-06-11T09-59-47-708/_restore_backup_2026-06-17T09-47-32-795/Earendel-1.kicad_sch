@@ -1839,129 +1839,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector:TestPoint"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0.762)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "TP"
-				(at 0 6.858 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "TestPoint"
-				(at 0 5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 5.08 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 5.08 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "test point"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "test point tp"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "Pin* Test*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "TestPoint_0_1"
-				(circle
-					(center 0 3.302)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "TestPoint_1_1"
-				(pin passive line
-					(at 0 0 90)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "DS1021-1X2SF162-B:DS1021-1X2SF162-B"
 			(pin_names
 				(offset 1.016)
@@ -5126,6 +5003,16 @@
 		)
 		(uuid "3c24658e-1a28-4b7f-8213-d8b9e0121f5a")
 	)
+	(text "VS_PA\n"
+		(exclude_from_sim no)
+		(at 21.844 160.528 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "44d59aba-000e-483c-9840-27e0933be278")
+	)
 	(text "Pullup for STM RST\n"
 		(exclude_from_sim no)
 		(at 132.334 148.336 0)
@@ -5247,6 +5134,16 @@
 		)
 		(uuid "97639972-f1b6-4f10-9eda-60e4998384ee")
 	)
+	(text "AVCC"
+		(exclude_from_sim no)
+		(at 32.004 161.544 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ac395006-5f37-4303-b94e-e5cd8f3c9aa7")
+	)
 	(text "ATA8510 Oscillator (Note that this needs to be 24.305MHz)\n"
 		(exclude_from_sim no)
 		(at 53.34 197.612 0)
@@ -5256,6 +5153,16 @@
 			)
 		)
 		(uuid "e12f449d-a918-4d8e-ad2b-b26da2a15bbc")
+	)
+	(text "DVCC\n"
+		(exclude_from_sim no)
+		(at 52.07 161.29 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e68a6390-877c-4e74-89a5-7c79afa0e32b")
 	)
 	(text "Reverse Polarity Protection\n"
 		(exclude_from_sim no)
@@ -5371,16 +5278,6 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 50.8) (xy 102.87 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "030b3fca-82f2-4f26-bec9-57c0c978f171")
-	)
-	(wire
-		(pts
 			(xy 237.49 229.87) (xy 248.92 229.87)
 		)
 		(stroke
@@ -5428,16 +5325,6 @@
 			(type default)
 		)
 		(uuid "0b448682-0dc1-4b77-8f95-6f88bb821313")
-	)
-	(wire
-		(pts
-			(xy 57.15 52.07) (xy 57.15 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0b7effd0-2da7-46db-860e-9a77c26c1295")
 	)
 	(wire
 		(pts
@@ -5691,16 +5578,6 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 36.83) (xy 57.15 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4d4e3017-8505-4da2-b69d-0f3922040d06")
-	)
-	(wire
-		(pts
 			(xy 36.83 90.17) (xy 49.53 90.17)
 		)
 		(stroke
@@ -5768,16 +5645,6 @@
 			(type default)
 		)
 		(uuid "5a12d27d-2507-4a3d-81f6-aa952ed40e7d")
-	)
-	(wire
-		(pts
-			(xy 87.63 52.07) (xy 87.63 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b5e2de4-923e-4697-acec-8102effc0640")
 	)
 	(wire
 		(pts
@@ -5891,26 +5758,6 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 83.82) (xy 227.33 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6fa1d33f-e7c2-4a3f-b904-636673f4b723")
-	)
-	(wire
-		(pts
-			(xy 72.39 36.83) (xy 72.39 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "70d86984-c58a-4cf1-8e4d-2b2de8ae935c")
-	)
-	(wire
-		(pts
 			(xy 55.88 248.92) (xy 60.96 248.92)
 		)
 		(stroke
@@ -5968,16 +5815,6 @@
 			(type default)
 		)
 		(uuid "7886c734-f48b-4e85-918e-1b4d6d41e6d6")
-	)
-	(wire
-		(pts
-			(xy 87.63 36.83) (xy 87.63 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "78908a0e-b5f7-401a-a383-83d6feb1a9bf")
 	)
 	(wire
 		(pts
@@ -6191,16 +6028,6 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 36.83) (xy 102.87 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "be035082-23dd-4216-89c0-5076cf03a761")
-	)
-	(wire
-		(pts
 			(xy 279.4 245.11) (xy 281.94 245.11)
 		)
 		(stroke
@@ -6298,16 +6125,6 @@
 			(type default)
 		)
 		(uuid "d43ac39c-a1af-430e-8a50-361994b6f963")
-	)
-	(wire
-		(pts
-			(xy 72.39 52.07) (xy 72.39 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d7eb313d-779f-4c8b-9e31-18780003319b")
 	)
 	(wire
 		(pts
@@ -6529,7 +6346,7 @@
 		)
 		(uuid "08472fa8-087a-4dc6-b46f-5716a86f33f3")
 	)
-	(label "DVCC"
+	(label "VDD"
 		(at 116.84 115.57 0)
 		(effects
 			(font
@@ -6589,16 +6406,6 @@
 		)
 		(uuid "2534f113-9e5b-4857-ba75-2b16e43ece64")
 	)
-	(label "DVCC"
-		(at 72.39 55.88 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "29fe17e0-5443-4779-935a-13bbf8df0551")
-	)
 	(label "RX"
 		(at 227.33 81.28 0)
 		(effects
@@ -6629,7 +6436,7 @@
 		)
 		(uuid "33363e5f-eef8-4461-9845-05593ffc894e")
 	)
-	(label "AVCC"
+	(label "VDD"
 		(at 36.83 110.49 0)
 		(effects
 			(font
@@ -6709,16 +6516,6 @@
 		)
 		(uuid "40b44916-0629-434c-9385-8dee7594e022")
 	)
-	(label "CLK_OUT"
-		(at 227.33 83.82 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "41621b71-bd4a-4af8-a8f9-b9e6963c493f")
-	)
 	(label "NSS"
 		(at 116.84 97.79 0)
 		(effects
@@ -6738,16 +6535,6 @@
 			(justify left bottom)
 		)
 		(uuid "47e55f9d-b67d-4ac1-95ac-5929a567df1c")
-	)
-	(label "VS_TP"
-		(at 57.15 41.91 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4aa71971-f112-4998-9418-67a6aac51a9d")
 	)
 	(label "GND"
 		(at 281.94 234.95 0)
@@ -6829,16 +6616,6 @@
 		)
 		(uuid "6399999d-66a3-4d2a-b760-40ad01cd1224")
 	)
-	(label "GND"
-		(at 102.87 54.61 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "652238f6-b4c2-459e-89fd-1e6e14304fee")
-	)
 	(label "TX"
 		(at 251.46 175.26 0)
 		(effects
@@ -6888,16 +6665,6 @@
 			(justify left bottom)
 		)
 		(uuid "72808467-c2fb-4021-b3e3-66b07cf626db")
-	)
-	(label "SCK"
-		(at 87.63 41.91 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "77968e3e-9cf6-489d-8315-b0979abf5645")
 	)
 	(label "BOOT0"
 		(at 95.25 152.4 0)
@@ -7009,7 +6776,7 @@
 		)
 		(uuid "94ec12cc-45c7-4ccb-ab4c-3bdb26fa587d")
 	)
-	(label "VS_PA"
+	(label "VDD"
 		(at 25.4 153.67 0)
 		(effects
 			(font
@@ -7059,7 +6826,7 @@
 		)
 		(uuid "9df23970-493d-4dfa-9146-6a5436bc6394")
 	)
-	(label "DVCC"
+	(label "VDD"
 		(at 55.88 153.67 0)
 		(effects
 			(font
@@ -7088,16 +6855,6 @@
 			(justify left bottom)
 		)
 		(uuid "ab817404-1d40-41ca-8bc0-6a46f8b4e86c")
-	)
-	(label "JTDI"
-		(at 102.87 41.91 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ab9c4105-8af8-4010-bc50-85658e7d5989")
 	)
 	(label "GND"
 		(at 281.94 224.79 0)
@@ -7170,16 +6927,6 @@
 		(uuid "b612488b-5fc6-4a75-ac3c-7ec168e34c8b")
 	)
 	(label "GND"
-		(at 87.63 55.88 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "bd466ddc-2250-4616-b402-0e41898d63bb")
-	)
-	(label "GND"
 		(at 116.84 113.03 0)
 		(effects
 			(font
@@ -7219,16 +6966,6 @@
 		)
 		(uuid "c793a994-194d-4f26-9dc6-8f2f8d461a65")
 	)
-	(label "MOSI"
-		(at 72.39 41.91 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ce84a263-bd0a-4784-a684-b6e0b876417e")
-	)
 	(label "JTDO"
 		(at 177.8 91.44 0)
 		(effects
@@ -7239,7 +6976,7 @@
 		)
 		(uuid "cf0e10cb-a813-49ee-8460-f8e13d02ad25")
 	)
-	(label "AVCC"
+	(label "VDD"
 		(at 35.56 153.67 0)
 		(effects
 			(font
@@ -7248,16 +6985,6 @@
 			(justify left bottom)
 		)
 		(uuid "cf4f487c-1856-452a-a682-d80526096ee3")
-	)
-	(label "VDD"
-		(at 57.15 55.88 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "cf7a024e-467c-431b-8b8e-8c9033aefd3e")
 	)
 	(label "RFIN_LB"
 		(at 36.83 82.55 0)
@@ -7309,7 +7036,7 @@
 		)
 		(uuid "d411613f-9fae-4100-8a93-336d64da9889")
 	)
-	(label "VS_PA"
+	(label "VDD"
 		(at 36.83 100.33 0)
 		(effects
 			(font
@@ -7601,7 +7328,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 46.6852 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -7761,7 +7488,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "DS1021-1X2SF162-B:CONNFLY_DS1021-1X2SF162-B"
+		(property "Footprint" ""
 			(at 265.43 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -8001,7 +7728,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 36.5252 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -8309,7 +8036,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 445.4652 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -8467,7 +8194,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 439.42 72.6948 0)
 			(hide yes)
 			(show_name no)
@@ -8510,164 +8237,6 @@
 			(project "Earendel-1"
 				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
 					(reference "C7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 87.63 36.83 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2b39392c-47f2-436a-b66f-d52b2acc85a8")
-		(property "Reference" "TP3"
-			(at 90.17 32.2579 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 90.17 34.7979 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork"
-			(at 92.71 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 92.71 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 87.63 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0a060250-5b98-498f-a7b4-cae361fd6839")
-		)
-		(instances
-			(project "Earendel-1"
-				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
-					(reference "TP3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 87.63 52.07 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "30e7bace-b35a-4d7d-81ca-9648d683fe40")
-		(property "Reference" "TP7"
-			(at 90.17 47.4979 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 90.17 50.0379 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork"
-			(at 92.71 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 92.71 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 87.63 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "df2b141c-ad79-405a-897f-d5fd987a0c5a")
-		)
-		(instances
-			(project "Earendel-1"
-				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
-					(reference "TP7")
 					(unit 1)
 				)
 			)
@@ -9032,7 +8601,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 93.472 157.48 90)
 			(hide yes)
 			(show_name no)
@@ -9334,85 +8903,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 102.87 50.8 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4b338d52-df73-4803-996c-979c8dc7fc1d")
-		(property "Reference" "TP8"
-			(at 105.41 46.2279 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 105.41 48.7679 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork"
-			(at 107.95 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 107.95 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 102.87 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ec0e412a-1425-4dac-b4f7-d0d6e39b74cf")
-		)
-		(instances
-			(project "Earendel-1"
-				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
-					(reference "TP8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 60.96 252.73 0)
 		(unit 1)
@@ -9446,7 +8936,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 61.9252 256.54 0)
 			(hide yes)
 			(show_name no)
@@ -9528,7 +9018,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
+		(property "Footprint" "Inductor_SMD:L_12x12mm_H8mm"
 			(at 397.51 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -9610,7 +9100,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 356.5652 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -10145,7 +9635,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
+		(property "Footprint" "Inductor_SMD:L_12x12mm_H8mm"
 			(at 453.39 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -10305,7 +9795,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 40.3352 256.54 0)
 			(hide yes)
 			(show_name no)
@@ -10599,7 +10089,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 474.98 72.6948 0)
 			(hide yes)
 			(show_name no)
@@ -10648,85 +10138,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 102.87 36.83 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "87718381-fa75-42af-8d25-ff7619d55676")
-		(property "Reference" "TP4"
-			(at 105.41 32.2579 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 105.41 34.7979 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork"
-			(at 107.95 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 107.95 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 102.87 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ba2fdcbb-2098-4fb3-8e38-29af5f014080")
-		)
-		(instances
-			(project "Earendel-1"
-				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
-					(reference "TP4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 125.73 156.21 0)
 		(unit 1)
@@ -10760,7 +10171,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 123.952 156.21 90)
 			(hide yes)
 			(show_name no)
@@ -10842,7 +10253,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 37.7952 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -11002,7 +10413,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 463.2452 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -11162,7 +10573,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 398.4752 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -11244,7 +10655,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 56.8452 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -11287,164 +10698,6 @@
 			(project "Earendel-1"
 				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
 					(reference "C6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 57.15 52.07 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b2b586e7-49dd-4b26-8da7-76b6b6cf1974")
-		(property "Reference" "TP5"
-			(at 59.69 47.4979 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 59.69 50.0379 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork"
-			(at 62.23 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 62.23 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 57.15 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "6b50346a-76cd-4d49-b602-e2ba1bd0f8ff")
-		)
-		(instances
-			(project "Earendel-1"
-				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
-					(reference "TP5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 72.39 52.07 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b8ba3cc4-d203-49ef-b895-3a16e87580e1")
-		(property "Reference" "TP6"
-			(at 74.93 47.4979 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 74.93 50.0379 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork"
-			(at 77.47 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 77.47 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 72.39 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "14539906-ee31-4621-aa40-627f59eb275a")
-		)
-		(instances
-			(project "Earendel-1"
-				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
-					(reference "TP6")
 					(unit 1)
 				)
 			)
@@ -11586,7 +10839,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 61.9252 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -11791,85 +11044,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 57.15 36.83 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cc96906a-510b-4078-b23a-84d0e3c313a9")
-		(property "Reference" "TP1"
-			(at 59.69 32.2579 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 59.69 34.7979 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork"
-			(at 62.23 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 62.23 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 57.15 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "bda4cab6-4e17-439b-88d9-f8137176184c")
-		)
-		(instances
-			(project "Earendel-1"
-				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
-					(reference "TP1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 444.5 81.28 0)
 		(unit 1)
@@ -11978,7 +11152,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 150.368 156.21 90)
 			(hide yes)
 			(show_name no)
@@ -12021,85 +11195,6 @@
 			(project "Earendel-1"
 				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
 					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 72.39 36.83 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d8690a2c-30fb-435f-970e-3c2f659e7220")
-		(property "Reference" "TP2"
-			(at 74.93 32.2579 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 74.93 34.7979 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_Pin:Pin_D0.9mm_L10.0mm_W2.4mm_FlatFork"
-			(at 77.47 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 77.47 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 72.39 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5f7097af-e727-4c11-8b4d-c2e2b6a43d44")
-		)
-		(instances
-			(project "Earendel-1"
-				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
-					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -12217,7 +11312,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 26.3652 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -12299,7 +11394,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
+		(property "Footprint" "Inductor_SMD:L_12x12mm_H8mm"
 			(at 355.6 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -12379,7 +11474,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount"
+		(property "Footprint" "SAMTEC-CES-110-01-X-D:SAMTEC-CES-110-01-X-D"
 			(at 254 222.25 0)
 			(hide yes)
 			(show_name no)
