@@ -5462,6 +5462,16 @@
 	)
 	(wire
 		(pts
+			(xy 177.8 119.38) (xy 186.69 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b87a62c-311b-4c0b-93d3-a8c2da632e09")
+	)
+	(wire
+		(pts
 			(xy 238.76 237.49) (xy 251.46 237.49)
 		)
 		(stroke
@@ -6022,6 +6032,16 @@
 	)
 	(wire
 		(pts
+			(xy 177.8 116.84) (xy 186.69 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d98dde4-bb46-423d-affc-9beb64319794")
+	)
+	(wire
+		(pts
 			(xy 222.25 73.66) (xy 227.33 73.66)
 		)
 		(stroke
@@ -6049,6 +6069,16 @@
 			(type default)
 		)
 		(uuid "9bc71610-a294-44ac-9651-be5bcfb55c81")
+	)
+	(wire
+		(pts
+			(xy 177.8 114.3) (xy 186.69 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ca81eb9-e14c-4ac1-8c59-3a3921af8892")
 	)
 	(wire
 		(pts
@@ -6670,7 +6700,7 @@
 		)
 		(uuid "169ecc61-bd99-4cef-b018-6aba9b834b53")
 	)
-	(label "JTRST"
+	(label "NJTRST"
 		(at 177.8 93.98 0)
 		(effects
 			(font
@@ -7080,6 +7110,16 @@
 		)
 		(uuid "670841a5-8939-4bba-9884-1360212803b9")
 	)
+	(label "MOSI_2"
+		(at 177.8 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6afc7f6c-c8b8-4985-befe-83cce33a5031")
+	)
 	(label "TX"
 		(at 227.33 78.74 0)
 		(effects
@@ -7149,6 +7189,16 @@
 			(justify left bottom)
 		)
 		(uuid "7f857eae-b749-4c2c-8a06-86cc98f6b0f6")
+	)
+	(label "MISO_2"
+		(at 177.8 116.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "81d47ab7-0825-4992-a88c-c2188b7f181e")
 	)
 	(label "RX"
 		(at 283.21 180.34 0)
@@ -7479,6 +7529,16 @@
 			(justify left bottom)
 		)
 		(uuid "cf0e10cb-a813-49ee-8460-f8e13d02ad25")
+	)
+	(label "SCK_2"
+		(at 177.8 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cf3a021b-aa7d-401b-af91-69295ae86248")
 	)
 	(label "AVCC"
 		(at 35.56 153.67 0)
@@ -9858,7 +9918,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0504_1310Metric_Pad0.83x1.28mm_HandSolder"
 			(at 155.9052 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -10736,7 +10796,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CAA-4.000-18-3050-X:XTAL_CAA-4.000-18-3050-X"
+		(property "Footprint" "CAA-4.000-18-3050-X-R(1):XTAL_CAA-4.000-18-3050-X-R"
 			(at 50.8 248.92 0)
 			(hide yes)
 			(show_name no)
