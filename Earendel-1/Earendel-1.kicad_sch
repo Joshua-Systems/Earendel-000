@@ -6132,16 +6132,6 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 128.27) (xy 335.28 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a6e0a328-09f9-423e-9589-df7b33240b91")
-	)
-	(wire
-		(pts
 			(xy 222.25 93.98) (xy 227.33 93.98)
 		)
 		(stroke
@@ -6769,16 +6759,6 @@
 			(justify left bottom)
 		)
 		(uuid "254a5a9c-7dc1-41d9-bcb3-efa11bf1658c")
-	)
-	(label "CLK_OUT"
-		(at 326.39 128.27 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "293a88cc-9064-4679-9597-76478e1662e8")
 	)
 	(label "DVCC"
 		(at 72.39 55.88 0)
