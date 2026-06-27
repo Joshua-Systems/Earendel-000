@@ -6650,7 +6650,7 @@
 		)
 		(uuid "0b0702ab-d316-46d4-9227-bbbdd0c26f95")
 	)
-	(label "VDD"
+	(label "DVCC"
 		(at 116.84 115.57 0)
 		(effects
 			(font
@@ -6810,7 +6810,7 @@
 		)
 		(uuid "33363e5f-eef8-4461-9845-05593ffc894e")
 	)
-	(label "VDD"
+	(label "AVCC"
 		(at 36.83 110.49 0)
 		(effects
 			(font
@@ -7270,7 +7270,7 @@
 		)
 		(uuid "94ec12cc-45c7-4ccb-ab4c-3bdb26fa587d")
 	)
-	(label "VDD"
+	(label "VS_PA"
 		(at 25.4 153.67 0)
 		(effects
 			(font
@@ -7330,7 +7330,7 @@
 		)
 		(uuid "9df23970-493d-4dfa-9146-6a5436bc6394")
 	)
-	(label "VDD"
+	(label "DVCC"
 		(at 55.88 153.67 0)
 		(effects
 			(font
@@ -7520,7 +7520,7 @@
 		)
 		(uuid "cf3a021b-aa7d-401b-af91-69295ae86248")
 	)
-	(label "VDD"
+	(label "AVCC"
 		(at 35.56 153.67 0)
 		(effects
 			(font
@@ -7580,7 +7580,7 @@
 		)
 		(uuid "d411613f-9fae-4100-8a93-336d64da9889")
 	)
-	(label "VDD"
+	(label "VS_PA"
 		(at 36.83 100.33 0)
 		(effects
 			(font
@@ -7629,16 +7629,6 @@
 			(justify left bottom)
 		)
 		(uuid "d93bdb88-0097-4714-8059-5e1f65af3c3c")
-	)
-	(label "VDD"
-		(at 236.22 39.37 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "da33eaf6-6287-47dd-bb36-c899c6d491a9")
 	)
 	(label "CLK_OUT"
 		(at 116.84 110.49 0)
@@ -9908,7 +9898,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0504_1310Metric_Pad0.83x1.28mm_HandSolder"
 			(at 155.9052 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -11370,84 +11360,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 236.22 46.99 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9e437b3b-0291-4285-9ed4-14153a4e70d6")
-		(property "Reference" "#PWR017"
-			(at 236.22 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 236.22 52.07 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 236.22 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 236.22 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 236.22 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "3dc1b23e-db5f-4a74-857f-33fd994a15e8")
-		)
-		(instances
-			(project "Earendel-1"
-				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
-					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 462.28 77.47 0)
 		(unit 1)
@@ -12364,88 +12276,6 @@
 			(project "Earendel-1"
 				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
 					(reference "J6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 236.22 43.18 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c4e4cfe8-1787-4ca1-ae20-5eda6a85ff99")
-		(property "Reference" "C16"
-			(at 240.03 41.9099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C"
-			(at 240.03 44.4499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 237.1852 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 236.22 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 236.22 43.18 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "98c3243e-a84b-471e-b1e3-1b9d3cb14246")
-		)
-		(pin "1"
-			(uuid "b4781f3f-9da8-4f9f-a061-ba79dcaace87")
-		)
-		(instances
-			(project "Earendel-1"
-				(path "/80bbe4cb-c454-49fe-926e-47095f357e2d"
-					(reference "C16")
 					(unit 1)
 				)
 			)
